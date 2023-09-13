@@ -1,3 +1,3 @@
 超级新标签页
 
-![](..\HomePage\README.assets\1.jpeg)
+![image](https://github.com/psmg123/SuperNewTab/blob/main/public/1.jpeg)
