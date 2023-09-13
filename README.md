@@ -5,4 +5,7 @@
 于是就写了这个新标签页
 目前还有很多bug
 
+
+ [在线体验](https://super-new-tab.vercel.app/)  
+
 ![image](https://github.com/psmg123/SuperNewTab/blob/main/public/1.jpeg)
