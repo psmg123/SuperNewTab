@@ -17,3 +17,6 @@
  [在线预览](https://super-new-tab.vercel.app/)  
 
 ![image](https://github.com/psmg123/SuperNewTab/blob/main/public/1.jpeg)
+
+
+联系方式:qq 1669243057
