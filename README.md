@@ -1,6 +1,8 @@
 超级新标签页(SuperNewTab)
 
-本人vue新手  
+
+<br>
+本人vue新手 看过一遍vue文档就直接开始这个项目了
 <br>
 一直感觉市面上的新标签页不咋好看(对于我来说)    
 <br>
@@ -9,6 +11,9 @@
 目前还有很多bug
 <br>
 
- [在线体验](https://super-new-tab.vercel.app/)  
+<br>
+
+
+ [在线预览](https://super-new-tab.vercel.app/)  
 
 ![image](https://github.com/psmg123/SuperNewTab/blob/main/public/1.jpeg)
